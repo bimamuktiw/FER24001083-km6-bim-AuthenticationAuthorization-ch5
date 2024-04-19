@@ -1,0 +1,18 @@
+.container {
+  @apply mx-auto px-4;
+}
+
+.title {
+  margin-bottom: 40px;
+}
+
+.title-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.page {
+  padding-top: 60px;
+  min-height: 100vh;
+}
